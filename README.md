@@ -60,20 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeram2302&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeram2302&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram2302" alt="GitHub Streak" />
-</p>
 
----
-
-### 🎯 Extra Skill Icons
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
-</div>
 
 ---
 
