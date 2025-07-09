@@ -13,7 +13,7 @@
 - 📝 I write articles on [My Blog](https://shriramsblog4.wordpress.com/)
 - 💬 Ask me about **Flutter, Android, Python, Data Science, Java, Wordpress, Node.js, DSA**
 - 📫 Reach me at **shreeramnarkhede@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1HGVs2JST41Lsg1XowpmJ8nr71KoBqloB/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/19ttiUs6KxEn6SqRbQZkucl3KioSXtZiR/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am funny 😄 (…my code sometimes disagrees)**
 
 ---
