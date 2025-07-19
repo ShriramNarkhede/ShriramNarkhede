@@ -67,14 +67,14 @@
 
 <div align="center">
 
-<a herf="https://www.linkedin.com/in/shriram09/">
+<a href="https://www.linkedin.com/in/shriram09/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"  />
 </a>
 
-<a herf="https://www.instagram.com/shreeram_narkhede/">
+<a href="https://www.instagram.com/shreeram_narkhede/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" />
 </a>
-<a herf="https://shriramsblog4.wordpress.com/">
+<a href="https://shriramsblog4.wordpress.com/">
   <img src="https://img.shields.io/static/v1?message=Blog&logo=wordpress&label=&color=21759B&logoColor=white&style=for-the-badge" />
 </a>
 </div>
