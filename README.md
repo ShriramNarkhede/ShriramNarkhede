@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on [Protect Me](https://github.com/shreeram2302/womenSafetyApp.git)
-- 🌱 I’m currently learning **LlaimIndex & Langchain**
+- 🌱 I’m currently learning **LlamaIndex & Langchain**
 - 👯 I’m looking to collaborate on **Student Mental Health Chat Bot**
 - 🤝 I’m looking for help with [Women Safety App (Wear OS + Android)](https://github.com/shreeram2302/womenSafetyApp.git)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shriramnarkhede.vercel.app/)
