@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShriramNarkhede&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriramnarkhedee&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
 
@@ -58,7 +58,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShriramNarkhede&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shriramnarkhede&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriramNarkhede&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
 </div>
 
 ---
