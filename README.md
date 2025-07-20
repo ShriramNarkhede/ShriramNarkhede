@@ -6,12 +6,12 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on [Protect Me](https://github.com/shreeram2302/womenSafetyApp.git)
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **LlaimIndex & Langchain**
 - 👯 I’m looking to collaborate on **Student Mental Health Prediction System**
 - 🤝 I’m looking for help with [Women Safety App (Wear OS + Android)](https://github.com/shreeram2302/womenSafetyApp.git)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shriramnarkhede.vercel.app/)
 - 📝 I write articles on [My Blog](https://shriramsblog4.wordpress.com/)
-- 💬 Ask me about **Flutter, Android, Python, Data Science, Java, Wordpress, Node.js, DSA**
+- 💬 Ask me about **Android,Web,Flutter Python, Data Science, Java, WordPress, JavaScript, DSA**
 - 📫 Reach me at **shreeramnarkhede@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/19ttiUs6KxEn6SqRbQZkucl3KioSXtZiR/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am funny 😄 (…my code sometimes disagrees)**
