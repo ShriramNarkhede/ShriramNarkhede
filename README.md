@@ -57,8 +57,8 @@
 ### 🏆 Achievements & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shreeram2302&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shreeram2302&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ShriramNarkhede&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriramNarkhede&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
 </div>
 
 ---
