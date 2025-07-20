@@ -47,11 +47,18 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShriramNarkhedee&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriramNarkhede&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
+---
 
+
+## 🔥 Contribution Graph
+[![Shriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriramNarkhede&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitors](https://komarev.com/ghpvc/?username=ShriramNarkhede&color=orange&style=flat)
 ---
 
 ### 🏆 Achievements & Activity
