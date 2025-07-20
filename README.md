@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on **Student Mental Health Prediction System**
 - 🤝 I’m looking for help with [Women Safety App (Wear OS + Android)](https://github.com/shreeram2302/womenSafetyApp.git)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolioshreeramnarkhede-shreerams-projects-8688ca53.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shriramnarkhede.vercel.app/)
 - 📝 I write articles on [My Blog](https://shriramsblog4.wordpress.com/)
 - 💬 Ask me about **Flutter, Android, Python, Data Science, Java, Wordpress, Node.js, DSA**
 - 📫 Reach me at **shreeramnarkhede@gmail.com**
