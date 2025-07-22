@@ -15,7 +15,6 @@
 - 📫 Reach me at **shreeramnarkhede@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/19ttiUs6KxEn6SqRbQZkucl3KioSXtZiR/view?usp=drive_link)
 - ⚡ Fun fact: **My code runs perfectly**... until it doesn’t.
-
 ---
 
 
