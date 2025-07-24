@@ -18,14 +18,6 @@
 ---
 
 
-### 🏆 Achievements & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShriramNarkhede&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ShriramNarkhede&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
-</div>
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="margin-left: 2px;" />
@@ -65,6 +57,13 @@
 
 ---
 
+### 🏆 Achievements & Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShriramNarkhede&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriramNarkhede&theme=dracula&column=-1&row=1" height="150" alt="Trophy Stats"/>
+</div>
+---
 
 ## 🔥 Contribution Graph
 [![Shriram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriramNarkhede&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
