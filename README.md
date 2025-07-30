@@ -13,7 +13,7 @@
 - 📝 I write articles on [My Blog](https://shriramsblog4.wordpress.com/)
 - 💬 Ask me about **JavaScript , Android , Java , Flutter , Python , Payload , Data Science, WordPress , DSA**
 - 📫 Reach me at **shreeramnarkhede@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/19ttiUs6KxEn6SqRbQZkucl3KioSXtZiR/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/18pDc1JV9IfCkGXjzK5AQwvxDNZAushUD/view?usp=sharing)
 - ⚡ Fun fact: **My code runs perfectly**... until it doesn’t.
 ---
 
